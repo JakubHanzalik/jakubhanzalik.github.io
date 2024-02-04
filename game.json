@@ -1,0 +1,111 @@
+{
+  "levels": [
+    {
+      "levelId": 1,
+      "spawnPoint": { "x": -1.2, "z": 2.5 },
+      "holes": [
+        { "x": 0, "z": 0, "diameter": 0.5 },
+        { "x": 1, "z": 0, "diameter": 0.75 },
+        { "x": 0, "z": 1, "diameter": 1 },
+        { "x": -1, "z": 0, "diameter": 1 }
+      ],
+      "winningHole": { "x": 0, "z": -2, "diameter": 0.5 },
+      "obstacles": [
+        { "x": 0, "z": -1, "diameter": 0.5 },
+        { "x": 1, "z": -1, "diameter": 0.5 },
+        { "x": -1, "z": -1, "diameter": 0.5 }
+      ]
+    },
+    {
+      "levelId": 2,
+      "spawnPoint": { "x": 0, "z": 3.25 },
+      "holes": [
+        { "x": 0, "z": 0, "diameter": 0.5 },
+        { "x": 1, "z": 0, "diameter": 0.75 },
+        { "x": 0, "z": 1, "diameter": 1 },
+        { "x": -1, "z": 0, "diameter": 1 },
+        { "x": 0, "z": -1, "diameter": 0.5 },
+        { "x": 1, "z": -1, "diameter": 0.5 },
+        { "x": -1, "z": -1, "diameter": 0.5 },
+        { "x": 0, "z": 2, "diameter": 0.5 },
+        { "x": 1, "z": 2, "diameter": 0.5 },
+        { "x": -1, "z": 2, "diameter": 0.5 }
+      ],
+      "winningHole": { "x": 0, "z": -3.25, "diameter": 0.4 },
+      "obstacles": [
+        { "x": 0, "z": -2, "diameter": 0.5 },
+        { "x": 1, "z": -2, "diameter": 0.5 },
+        { "x": -1, "z": -2, "diameter": 0.5 }
+      ]
+    },
+    {
+      "levelId": 3,
+      "spawnPoint": { "x": 0, "z": 2.7 },
+      "holes": [
+        { "x": -0.76, "z": 2.98, "diameter": 0.75 },
+        { "x": -0.0, "z": 0.52, "diameter": 1 },
+        { "x": 0.79, "z": -2.73, "diameter": 0.75 },
+        { "x": -0.87, "z": -1.01, "diameter": 0.5 },
+        { "x": 0.64, "z": -0.81, "diameter": 1 },
+        { "x": 1.47, "z": 1.53, "diameter": 0.5 },
+        { "x": -1.26, "z": -2.75, "diameter": 0.75 },
+        { "x": -1.26, "z": -0.35, "diameter": 0.5 },
+        { "x": 0.75, "z": 3.05, "diameter": 0.75 },
+        { "x": 0.2, "z": 1.62, "diameter": 1 }
+      ],
+      "winningHole": { "x": 0.06, "z": -3.49, "diameter": 0.5 },
+      "obstacles": [
+        { "x": -1, "z": 2, "diameter": 0.5 },
+        { "x": 1, "z": 2, "diameter": 0.5 },
+        { "x": 1, "z": 1, "diameter": 0.5 },
+        { "x": -1, "z": 1, "diameter": 0.5 },
+        { "x": -0.2, "z": -2, "diameter": 0.75 }
+      ]
+    },
+    {
+      "levelId": 4,
+      "spawnPoint": { "x": 0.25, "z": -2 },
+      "holes": [
+        { "x": -0.78, "z": 0.65, "diameter": 0.75 },
+        { "x": -0.36, "z": 3.19, "diameter": 0.75 },
+        { "x": -1.47, "z": 2.69, "diameter": 0.5 },
+        { "x": 1.16, "z": 1.37, "diameter": 0.75 },
+        { "x": -0.58, "z": 1.98, "diameter": 0.5 },
+        { "x": 0.39, "z": 2.05, "diameter": 0.5 },
+        { "x": -0.61, "z": -1.44, "diameter": 0.75 },
+        { "x": -1.26, "z": 3.69, "diameter": 0.5 },
+        { "x": 0.58, "z": -3.05, "diameter": 0.75 },
+        { "x": -0.8, "z": -2.93, "diameter": 0.75 }
+      ],
+      "winningHole": { "x": 1.2, "z": 2.8, "diameter": 0.5 },
+      "obstacles": [
+        { "x": 0.5, "z": 0.5, "diameter": 0.5 },
+        { "x": 0.5, "z": -0.5, "diameter": 0.5 },
+        { "x": -0.5, "z": -0.5, "diameter": 0.5 }
+      ]
+    },
+    {
+      "levelId": 5,
+      "spawnPoint": { "x": -0.5, "z": 3.25 },
+      "holes": [
+        { "x": 0, "z": 0, "diameter": 0.75 },
+        { "x": -1, "z": -1, "diameter": 0.75 },
+        { "x": 1.3, "z": -1.5, "diameter": 0.5 },
+        { "x": -1, "z": 1.5, "diameter": 0.75 },
+        { "x": 0.5, "z": 2.5, "diameter": 0.75 },
+        { "x": 0, "z": -2.5, "diameter": 0.75 },
+        { "x": 1.25, "z": 0.75, "diameter": 0.75 }
+      ],
+      "winningHole": { "x": 0, "z": -3.5, "diameter": 0.4 },
+      "obstacles": [
+        { "x": 0, "z": 1, "diameter": 0.5 },
+        { "x": 1, "z": 0, "diameter": 0.5 },
+        { "x": -1, "z": -2, "diameter": 0.5 },
+        { "x": 1.5, "z": -2.5, "diameter": 0.5 },
+        { "x": -1.5, "z": 2.5, "diameter": 0.5 },
+        { "x": 0.5, "z": -1.5, "diameter": 0.75 }
+      ]
+    }
+    
+  ]
+}
